@@ -19,7 +19,7 @@
 
 ##
 
-![Snake animation](https://github.com/gabrielladoche/Gabriel-Ladoche/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
