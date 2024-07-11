@@ -12,6 +12,7 @@
   <img align="center" alt="python" height="50" width="50" src="https://github.com/gabrielladoche/gabrielladoche/blob/main/python-original-wordmark.svg">
   <img align="center" alt="aws" height="50" width="50" src="https://github.com/gabrielladoche/gabrielladoche/blob/main/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="sql" height="50" width="50" src="https://github.com/gabrielladoche/gabrielladoche/blob/main/azuresqldatabase-original.svg">
+  <img align="center" alt="powerBI" height="50" width="50" src="[https://github.com/gabrielladoche/gabrielladoche/blob/main/python-original-wordmark.svg](https://github.com/gabrielladoche/gabrielladoche/blob/main/icons8-power-bi-48.png)">
 </div>
 
 ##
