@@ -23,7 +23,7 @@
   <img align="center" alt="sql" height="50" width="50" src="https://github.com/gabrielladoche/gabrielladoche/blob/main/azuresqldatabase-original.svg">
   <img align="center" alt="powerBI" height="50" width="50" src="https://github.com/gabrielladoche/gabrielladoche/blob/main/icons8-power-bi.svg">
   <img align="center" alt="javaScript" height="50" width="50" src="https://github.com/gabrielladoche/gabrielladoche/blob/main/javascript-original.svg"> 
-  <img align="center" alt="C#" height="50" width="50" src="https://github.com/gabrielladoche/gabrielladoche/blob/main/csharp-logo.svg"> 
+  <script src="https://gist.github.com/johndward01/95c1d09de9e3707cfb4154989962376d.js"></script>
 </div>
 <br>
 <div>
