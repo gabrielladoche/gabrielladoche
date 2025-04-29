@@ -24,6 +24,7 @@
   <img align="center" alt="powerBI" height="50" width="50" src="https://github.com/gabrielladoche/gabrielladoche/blob/main/icons8-power-bi.svg">
   <img align="center" alt="javaScript" height="50" width="50" src="https://github.com/gabrielladoche/gabrielladoche/blob/main/javascript-original.svg"> 
   <img align="center" alt="c#" height="50" width="50" src="https://github.com/gabrielladoche/gabrielladoche/blob/main/csharp-logo.svg"> 
+  <img align="center" alt="c#" height="50" width="50" src="https://github.com/gabrielladoche/gabrielladoche/blob/main/Docker.svg"> 
 </div>
 <br>
 <div>
